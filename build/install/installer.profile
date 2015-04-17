@@ -3,7 +3,7 @@ SILENT_LICENSE_MODE=developer
 # provide serial number if SILENT_LICENSE_MODE=full
 #SILENT_SERIAL_NUMBER=serial_number
 
-SILENT_INSTALL_ODBC=true
+SILENT_INSTALL_ODBC=false
 #i cant imagine a scenario where I need the samples
 SILENT_INSTALL_SAMPLES=false
 
