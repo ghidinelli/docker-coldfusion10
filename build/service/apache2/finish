@@ -2,7 +2,7 @@
 
 set -e
 
-running=1
+running=0
 
 while [ $running = "1" ]
 do
